@@ -33,7 +33,6 @@
 						<th>Nomor Telpon</th>
 						<th>Saldo (RP)</th>
 						<th class="text-center">Aksi</th>
-						<br>
 					</tr>
 				</thead>
 				<tbody class="table-border-bottom-0 text-left" id="resultMain">

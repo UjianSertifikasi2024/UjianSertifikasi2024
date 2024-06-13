@@ -31,6 +31,7 @@
 						<th>Jenis Sampah</th>
 						<th>Harga Untuk Nasabah</th>
 						<!-- <th>Harga Unit</th> -->
+						 <!-- <th>Harga Unit</th> -->
 						<th class="text-center">Aksi</th>
 					</tr>
 				</thead>

@@ -32,6 +32,7 @@
 						<th>Alamat</th>
 						<th>Nomor Telpon</th>
 						<th>Saldo (RP)</th>
+						<!-- <th></th> -->
 						<th class="text-center">Aksi</th>
 					</tr>
 				</thead>

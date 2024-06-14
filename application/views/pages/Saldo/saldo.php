@@ -28,6 +28,7 @@
 				<thead class="table-light">
 					<tr>
 						<th>No</th>
+						<!-- <th></th> -->
 						<th>Nama Nasabah</th>
 						<th>jumlah penarikan</th>
 						<th>Sisa saldo</th>
